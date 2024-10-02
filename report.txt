@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\AJAY KIRAN SUARES\OneDrive\문서\intro1\AC TO DC\555 DICE\555 DICE-F_Cu.gbr'.
+Plotted to 'C:\Users\AJAY KIRAN SUARES\OneDrive\문서\intro1\AC TO DC\555 DICE\555 DICE-B_Cu.gbr'.
+Plotted to 'C:\Users\AJAY KIRAN SUARES\OneDrive\문서\intro1\AC TO DC\555 DICE\555 DICE-F_Paste.gbr'.
+Plotted to 'C:\Users\AJAY KIRAN SUARES\OneDrive\문서\intro1\AC TO DC\555 DICE\555 DICE-B_Paste.gbr'.
+Plotted to 'C:\Users\AJAY KIRAN SUARES\OneDrive\문서\intro1\AC TO DC\555 DICE\555 DICE-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\AJAY KIRAN SUARES\OneDrive\문서\intro1\AC TO DC\555 DICE\555 DICE-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\AJAY KIRAN SUARES\OneDrive\문서\intro1\AC TO DC\555 DICE\555 DICE-F_Mask.gbr'.
+Plotted to 'C:\Users\AJAY KIRAN SUARES\OneDrive\문서\intro1\AC TO DC\555 DICE\555 DICE-B_Mask.gbr'.
+Plotted to 'C:\Users\AJAY KIRAN SUARES\OneDrive\문서\intro1\AC TO DC\555 DICE\555 DICE-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\AJAY KIRAN SUARES\OneDrive\문서\intro1\AC TO DC\555 DICE\555 DICE-job.gbrjob'.
+Info: Done.
